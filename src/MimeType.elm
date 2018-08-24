@@ -5,7 +5,7 @@ module MimeType
         , MimeVideo(..)
         , MimeText(..)
         , MimeApp(..)
-        , MimeType(Image, Audio, Video, Text, App, OtherMimeType)
+        , MimeType(..)
         , parseMimeType
         , toString
         )
